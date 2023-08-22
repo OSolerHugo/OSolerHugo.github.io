@@ -47,13 +47,13 @@
         <p>Físico Nuclear e Entusiasta de Dados</p>
     </header>
     <div class="project">
-        <img src="link_para_projeto1.jpg" alt="Projeto 1">
+        <img src="https://github.com/OSolerHugo/OSolerHugo.github.io/blob/main/20230628_190141.jpg?raw=true" alt="Projeto 1">
         <h2>Projeto 1</h2>
         <p>Descrição breve do projeto 1.</p>
         <a class="project-link" href="link_para_saiba_mais_projeto1">Saiba Mais</a>
     </div>
     <div class="project">
-        <img src="link_para_projeto2.jpg" alt="Projeto 2">
+        <img src="https://github.com/OSolerHugo/OSolerHugo.github.io/blob/main/20230628_190141.jpg?raw=true" alt="Projeto 2">
         <h2>Projeto 2</h2>
         <p>Descrição breve do projeto 2.</p>
         <a class="project-link" href="link_para_saiba_mais_projeto2">Saiba Mais</a>

@@ -17,6 +17,19 @@
             padding: 20px;
         }
 
+        header img {
+            max-width: 100px;
+            height: auto;
+            border-radius: 50%;
+            margin-right: 20px;
+        }
+
+        .header-content {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
         .project {
             margin: 20px;
             padding: 20px;
@@ -42,9 +55,13 @@
 </head>
 <body>
     <header>
-        <img src="https://github.com/OSolerHugo/OSolerHugo.github.io/blob/main/20230628_190141.jpg?raw=true" alt="Hugo Soler">
-        <h1>Hugo Soler</h1>
-        <p>Físico Nuclear e Entusiasta de Dados</p>
+        <div class="header-content">
+            <img src="https://github.com/OSolerHugo/OSolerHugo.github.io/blob/main/20230628_190141.jpg?raw=true" alt="Hugo Soler">
+            <div class="header-text">
+                <h1>Hugo Soler</h1>
+                <p>Físico Nuclear e Entusiasta de Dados</p>
+            </div>
+        </div>
     </header>
     <div class="project">
         <img src="https://github.com/OSolerHugo/OSolerHugo.github.io/blob/main/20230628_190141.jpg?raw=true" alt="Projeto 1">
@@ -61,4 +78,3 @@
     <!-- Repita a estrutura acima para mais projetos -->
 </body>
 </html>
-

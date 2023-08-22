@@ -42,7 +42,7 @@
 </head>
 <body>
     <header>
-        <img src="link_para_sua_foto.jpg" alt="Hugo Soler">
+        <img src="https://github.com/OSolerHugo/OSolerHugo.github.io/blob/main/20230628_190141.jpg?raw=true" alt="Hugo Soler">
         <h1>Hugo Soler</h1>
         <p>Físico Nuclear e Entusiasta de Dados</p>
     </header>
